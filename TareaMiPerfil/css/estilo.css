@@ -1,0 +1,42 @@
+body{
+	padding-top: 12%;
+background: url(https://i.pinimg.com/originals/c6/fe/de/c6fede1ef74ae614bf1cec9dcbc32c9f.jpg);
+}
+img{
+ border-radius: 100%;
+
+}
+#rc{
+	font-family: 'Rockwell Extra Bold', cursive;
+}
+#facebook{
+	background: url(https://png.icons8.com/color/48/000000/facebook.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+	background-color: blue;
+}
+#twiter{
+	background: url(https://png.icons8.com/color/48/000000/twitter.png);
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+#instagran{
+	background: url(https://png.icons8.com/color/50/000000/instagram-new.png);
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+}
+#youtube{
+	background: url(https://png.icons8.com/color/50/000000/youtube.png);
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+   }
+   #rocio{
+   	height: 50px;
+   }
+#rd{
+	background-color:pink;
+}
